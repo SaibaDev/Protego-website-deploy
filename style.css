@@ -14,6 +14,7 @@
 }
 
 
+
 .font-Oswald{
   font-family: "Oswald", sans-serif;
   font-optical-sizing: auto;
@@ -48,6 +49,7 @@ body {
 }
 
 body {
+  
   font-family:
 		system-ui,
 		-apple-system, /* Firefox supports this but not yet `system-ui` */
@@ -58,6 +60,7 @@ body {
 		sans-serif,
 		'Apple Color Emoji',
 		'Segoe UI Emoji';
+    
 }
 
 
